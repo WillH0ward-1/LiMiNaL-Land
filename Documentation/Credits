@@ -1,0 +1,93 @@
+// ===============================================
+
+All code or assets referenced below have been 
+modified and adapted for Liminal Land.
+
+To everyone mentioned here, thank you!
+
+- CODE CREDITS -
+
+--------------------------------------------------
+
+1. PICK RANDOM TEXTURE FROM ARRAY:
+
+https://stackoverflow.com/questions/40311079/loading-a-random-texture-in-three-js/40311465
+
+--------------------------------------------------
+
+3. RANDOM GENERATION (USED FOR FOREST GENERATION):
+
+https://threejs.org/examples/?q=po#misc_controls_orbit
+
+--------------------------------------------------
+
+4. CUSTOM BOX GEOMETRY (REMOVE FACE - USED FOR MAP BORDERS):
+
+https://discourse.threejs.org/t/how-to-remove-a-face-of-a-cube/2872/7
+
+--------------------------------------------------
+
+5. COLOUR LERP (DAY/NIGHT CYCLE)
+
+http://ostack.cn/?qa=108482/
+
+--------------------------------------------------
+
+6. BOUNDING BOX (FOR BASIC NON-PHYSICS BASED COLLISION DETECTION)
+
+https://sbcode.net/threejs/obb/
+
+--------------------------------------------------
+
+7. POISSON DISK SAMPLING
+
+https://github.com/kchapelier/poisson-disk-sampling
+
+--------------------------------------------------
+
+8. VIDEO TEXTURES 
+
+https://www.youtube.com/watch?v=d1sr2oWnxus
+
+--------------------------------------------------
+
+9. TONE JS (UNIVERSAL USAGE)
+
+https://tonejs.github.io/
+
+--------------------------------------------------
+
+10. THREE JS (UNIVERSAL USAGE)
+
+https://threejs.org/
+
+--------------------------------------------------
+
+11. BPM TO MS FORMULA
+
+https://tuneform.com/tools/time-tempo-bpm-to-milliseconds-ms
+
+--------------------------------------------------
+
+- ASSET CREDITS -
+
+1. Trees: ARTISTE 2D3D - https://www.shutterstock.com/g/Artiste2d3d
+
+--------------------------------------------------
+
+TRIDSANU THOPET - https://www.shutterstock.com/g/Tridsanu+Thopet
+
+--------------------------------------------------
+
+MONGKON - https://www.shutterstock.com/g/mongkon
+
+--------------------------------------------------
+
+CHRISTIAN NASTASE - https://www.shutterstock.com/g/Christian+Nastase
+
+--------------------------------------------------
+
+2. Grass - 3DJUNGLE.NET - https://3djungle.net/textures/grass/1401/
+
+3. Foliage - http://pngimagesfree.com/Vines/Vines_PNG_Decorative_Elements.htm
+

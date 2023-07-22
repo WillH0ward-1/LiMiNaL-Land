@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 0, 0, 0);
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 24px;
+  position: "absolute";
+  top: window-innerHeight / 2 + "px";
+  left: window-innerWidth / 2 + "px";
+  overscroll-behavior: none;
+}
+
+BUTTON {
+  background: url("Textures/UI/WindowsWarning.png") 10px 10px no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+}
+
+canvas {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+#overlay {
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0);
+}
